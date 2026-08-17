@@ -59,8 +59,8 @@ src/main/java/com/parkinglot/
 ## How to Run
 
 ```bash
-mvn compile
-mvn exec:java -Dexec.mainClass="com.parkinglot.Main"
+- Open `src/main/java/com/parkinglot/Main.java`
+- Click the green ▶ arrow next to `public static void main(...)` (or in the gutter next to the class)
 ```
 
 Or run `Main.java` directly from IntelliJ IDEA.
